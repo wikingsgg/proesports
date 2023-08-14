@@ -1,1 +1,19 @@
-User data
+{
+  "User": {
+    "Firstname": "Osra",
+    "Lastname": "Almousavi",
+    "Username": "osradk",
+    "Email": "osrak@gmail.com",
+    "Password": "test",
+    "Platform": {
+      "Steam": {
+        "Username": "",
+        "Password": ""
+      },
+      "Epic": {
+        "Username": "",
+        "Password": ""
+      }
+    }
+  }
+}
