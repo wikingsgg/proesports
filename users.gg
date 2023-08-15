@@ -1,19 +1,55 @@
-{
-  "User": {
-    "Firstname": "Osra",
-    "Lastname": "Almousavi",
-    "Username": "osradk",
-    "Email": "osrak@gmail.com",
-    "Password": "test",
-    "Platform": {
+[
+  {
+    "Id": "071cd006-30dc-4e30-a37b-4107a81228ce",
+    "Firstname": "Wikings",
+    "Lastname": "Admin",
+    "FullName": "Wikings Admin",
+    "FormattedUserInfo": "Wikings Admin - admin",
+    "Email": "pcadmin@wikings.gg",
+    "Password": "$2a$11$nOBgpP4b.zngJEYrdlKWou4OPfzIag3ZGXlXileuAPaXkbQBejkDW",
+    "Username": "admin",
+    "MembershipID": null,
+    "Type": "SuperAdmin",
+    "PlatformPasswords": null,
+    "IsAdmin": true,
+    "IsSuperAdmin": true,
+    "IsMember": false,
+    "EncryptionKey": null,
+    "EncryptionIV": null
+  },
+  {
+    "Id": "9def39df-3fdc-4477-8cff-e4293689e28e",
+    "Firstname": "Taregh",
+    "Lastname": "Jasemian",
+    "FullName": "Taregh Jasemian",
+    "FormattedUserInfo": "Taregh Jasemian - swer",
+    "Email": "swerdk@gmail.com",
+    "Password": "$2a$11$CF5BZ4A6vNo5Faj7ckEB7uph/fVXqzhETnXWzQLKRjvSH2injtTjG",
+    "Username": "swer",
+    "MembershipID": null,
+    "Type": null,
+    "PlatformPasswords": {
       "Steam": {
-        "Username": "",
-        "Password": ""
+        "Username": "taregh",
+        "Password": "mDg4hgssPcl4kRjGJQWP1A=="
       },
       "Epic": {
         "Username": "",
         "Password": ""
+      },
+      "Discord": {
+        "Username": "swerdk@gmail.com",
+        "Password": "dPZM60A742CvW2G3mOQogw=="
+      },
+      "Roblox": {
+        "Username": "",
+        "Password": ""
       }
-    }
+    },
+    "IsAdmin": false,
+    "IsSuperAdmin": false,
+    "IsMember": false,
+    "EncryptionKey": null,
+    "EncryptionIV": null
   }
-}
+]
